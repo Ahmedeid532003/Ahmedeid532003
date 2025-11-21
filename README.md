@@ -41,7 +41,7 @@
 name: Ahmed Eid Kamel
 located_in: Giza, EG
 job: Software Engineer
-education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
+education: [ "Bachelor's in Computer Science (Big Data), Nile University, Egypt – 2024"]
 company: Cairo system
 past experiences:
   - ["Backend Software Engineer","Node.js - express", "Moselay Media Development",  "2024"]
