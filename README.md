@@ -1,7 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Ahmed Eid , Back end developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197606.png" width="13"/>
+<p>Welcome to my page! </br> I'm Ahmed Eid , Back end developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197620.png" width="13"/>
+
 <b>Giza, Egypt</b>
 <h3>Things I code with</h3>
 <p>
@@ -35,12 +36,9 @@
 
 ### ✨&nbsp; About Me
 
-I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software.
-
 ```yaml
-name: Erwin Lejeune
-located_in: Abu Dhabi, UAE
-from: Nantes (France)
+name: Ahmed Eid Kamel
+located_in: Giza, EG
 job: Senior Robotics Software Engineer
 education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
 company: Technology Innovation Institute
@@ -59,7 +57,6 @@ technical_background: ["Motion Planning", "Optimization",
                        "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
 currently_learning: ["Web3", "React", "Vue"]
 will_learn: ["Blockchain (backend)"]
-hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ```
 
 
