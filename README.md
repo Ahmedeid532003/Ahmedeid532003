@@ -44,8 +44,8 @@ job: Software Engineer
 education: [ "Bachelor's in Computer Science (Big Data), Nile University, Egypt – 2024"]
 company: Cairo system
 past experiences:
+  - ["Full Stack Developer", "React - Node.js","Cairo System", "2024"]
   - ["Backend Software Engineer","Node.js - express", "Moselay Media Development",  "2024"]
-  - ["Full Stack Developer", "React - Node.js","Cairo System", "2023"]
   - ["Intern", "IoT, JavaScript & Database Fundamentals", " Information Technology Institute",  "2023"]
   - ["JavaScript Developer Trainee", "JavaScript language", "Data Camp", "2023"]
   - ["Backend course", "Node.js - mongoDB", "Route Academy",  "2022"]
